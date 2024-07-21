@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : "false" # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : "true" # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "aimere"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Jonathan Ho" # site tagline that appears below site title in masthead
 name                     : "Jonathan Ho"
 description              : "An amazing website."
 url                      : "https://jxndela.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
